@@ -1,0 +1,2 @@
+seq,artifact_id,op,content_hash,size_bytes,ts,prev_hash,chain_hash
+4,ds404-2,HIT,d4043,13,2055465,00b92253bfeb1a8584eeea1da511fde7fbdae099203b91a46b6be49c362c99d2,251a3a6e3871905d2c3b7d0f115f7248b10013de078f596d9a8d3131e98300ef

@@ -1,0 +1,33 @@
+{
+  "chain_end": 17,
+  "counts": {
+    "STORE": 5,
+    "HIT": 3,
+    "MISS": 1,
+    "EVICT": 5,
+    "REFRESH": 3
+  },
+  "final_states": {
+    "nf-solo": "EVICTED"
+  },
+  "recovered_seqs": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17
+  ],
+  "distinct_artifacts": 1
+}

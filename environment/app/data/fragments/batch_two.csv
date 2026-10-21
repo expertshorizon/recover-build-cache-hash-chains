@@ -1,0 +1,2 @@
+seq,artifact_id,op,content_hash,size_bytes,ts,prev_hash,chain_hash
+17,artifact-002,HIT,bundled2,12,1700000528,b1a6ca2878276378a1b590caaf0c285cace5477d0ea40659b67cc94164537eb2,d7e024401d7edf9790843cceab7ff205b96d2720159556465596fbc88d8cf025

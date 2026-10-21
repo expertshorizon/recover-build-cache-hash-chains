@@ -1,0 +1,44 @@
+{
+  "chain_end": 27,
+  "counts": {
+    "STORE": 9,
+    "HIT": 6,
+    "MISS": 5,
+    "EVICT": 7,
+    "REFRESH": 0
+  },
+  "final_states": {
+    "ds101-0": "STORED",
+    "ds101-1": "STORED"
+  },
+  "recovered_seqs": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21,
+    22,
+    23,
+    24,
+    25,
+    26,
+    27
+  ],
+  "distinct_artifacts": 2
+}

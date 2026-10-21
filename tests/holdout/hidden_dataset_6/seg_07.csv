@@ -1,0 +1,2 @@
+seq,artifact_id,op,content_hash,size_bytes,ts,prev_hash,chain_hash
+14,ds606-4,EVICT,d6065,15,2083328,ce7f80168ae0232772cb15f2256ad5847fc9398cf241361c700722fd8d89033e,961c970a798e995748a516ff7cad9a1001c908f5dbc103a0db92e423fcabe7a5

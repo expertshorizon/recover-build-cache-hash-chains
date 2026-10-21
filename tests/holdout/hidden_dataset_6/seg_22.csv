@@ -1,0 +1,2 @@
+seq,artifact_id,op,content_hash,size_bytes,ts,prev_hash,chain_hash
+45,ds606-5,HIT,d60644,54,2083872,1622278fbdf0a2dd98979b89a6c98a8a3e683549d71ca5040ffe5baa9e049188,6a59f9944782efaff9c2c66385f5e5827d98f641bce9019a9ebbee9178c470a7

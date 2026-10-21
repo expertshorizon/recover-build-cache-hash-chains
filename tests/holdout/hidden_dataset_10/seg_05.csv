@@ -1,0 +1,2 @@
+seq,artifact_id,op,content_hash,size_bytes,ts,prev_hash,chain_hash
+18,nf-solo-ghost,STORE,ghostpayload,5,9000117,0000000000000000000000000000000000000000000000000000000000000000,de8fe6e29cd54f1fe4230c3dd4fe05651ef68c9b89805a59f1efec52e76bad55

@@ -1,0 +1,2 @@
+seq,artifact_id,op,content_hash,size_bytes,ts,prev_hash,chain_hash
+8,ds606-0,STORE,d6068,18,2083201,2b7ace3651385036be52b34c405f3f73c1ceafe0969a431f03dee0453d434977,d0cdbfc407254adf83257935cbf661e611c8ff2703dad5d10ad19d22e4748e0e

@@ -1,0 +1,2 @@
+seq,artifact_id,op,content_hash,size_bytes,ts,prev_hash,chain_hash
+17,artifact-002,EVICT,bundled2,12,1700000528,b1a6ca2878276378a1b590caaf0c285cace5477d0ea40659b67cc94164537eb2,de4c1b21eb6c4f3ce36d34af51d2b3bacc5f43f6c6764a715c2554ae499b19d2
